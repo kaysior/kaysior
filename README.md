@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Kamil and I'm studying IT. I'm a first-year student and I live in Poznań. I work as API DevOps Engineer at BBraun Business Services
 
 <!--
 **kaysior/kaysior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
